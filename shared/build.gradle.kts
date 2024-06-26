@@ -56,7 +56,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.alramlawi.museum"
+    namespace = "com.alramlawi.shared"
     compileSdk = 34
     defaultConfig {
         minSdk = 24
