@@ -6,10 +6,10 @@ plugins {
 }
 
 android {
-    namespace = "com.alramlawi.first.android"
+    namespace = "com.alramlawi.museum.android"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.alramlawi.first.android"
+        applicationId = "com.alramlawi.museum.android"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
