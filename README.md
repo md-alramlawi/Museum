@@ -20,5 +20,15 @@ The shared code for *Compose Multiplatform* applications resides in the `/shared
 ### *iOS Application*
 The iOS application is located in the `/iosApp` directory. Even if you are sharing your UI with *Compose Multiplatform*, you need this entry point for your *iOS app*. This is also where you should add any *SwiftUI code* for your project.
 
+## *Technologies*
+The app uses the following multiplatform dependencies in its implementation:
+
+- **Compose Multiplatform** for UI
+- **Ktor** for networking
+- **kotlinx.serialization** for JSON handling
+- **Kamel** for image loading
+- **Koin** for dependency injection
+- **Voyager** for navigation and screen models
+
 ## *Learn More*
 To learn more about *Kotlin Multiplatform*, visit the [official documentation](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html).
