@@ -2,6 +2,8 @@
 
 This is a *Kotlin Multiplatform* project targeting both *Android* and *iOS* platforms.
 
+![image](https://github.com/md-alramlawi/Museum/assets/60019872/a632abf3-4293-4f16-9aac-59ec1346b343)
+
 ## *Project Structure*
 
 ### *Android Application*
